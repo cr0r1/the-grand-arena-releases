@@ -4,18 +4,18 @@
         <title>Mises à jour de The Grand Arena</title>
         <description>Les dernières mises à jour pour l'application The Grand Arena.</description>
         <item>
-            <title>The Grand Arena 1.0.0 (Build 9)</title>
-            <sparkle:version>9</sparkle:version>
+            <title>The Grand Arena 1.0.0 (Build 10)</title>
+            <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <pubDate>Wed, 09 Sep 2026 00:48:06 +0000</pubDate>
-            <sparkle:releaseNotesLink>https://github.com/cr0r1/the-grand-arena-releases/releases/tag/v1.0.0-9</sparkle:releaseNotesLink>
+            <pubDate>Wed, 09 Sep 2026 20:26:05 +0000</pubDate>
+            <sparkle:releaseNotesLink>https://github.com/cr0r1/the-grand-arena-releases/releases/tag/v1.0.0-10</sparkle:releaseNotesLink>
             
-            <enclosure url="https://github.com/cr0r1/the-grand-arena-releases/releases/download/v1.0.0-9/The_Grand_Arena.zip"
-                       sparkle:version="9"
+            <enclosure url="https://github.com/cr0r1/the-grand-arena-releases/releases/download/v1.0.0-10/The_Grand_Arena.zip"
+                       sparkle:version="10"
                        sparkle:shortVersionString="1.0.0"
-                       length="115603146"
+                       length="171468648"
                        type="application/octet-stream"
-                       sparkle:edSignature="PzRwvsSw7XKiJ6gsHsdELmOEDRz9Ok8DWum68xTj9BPgUOO63duoUUttvXlmvpO2Igmj6660fgaQFYRgeQfxAQ==" />
+                       sparkle:edSignature="ob3BvGKgxvfE+tLAv7VQ6ikvVd03L8FccTztbuJhtuMGJkq7xwhG2tYm2W2P3Jf0QC8g5oXHGOrPRihn90psBQ==" />
         </item>
     </channel>
 </rss>
